@@ -1,3 +1,5 @@
 1$Mohammed Radhi$10
 2$Khabib$2
 3$Radhi$3
+4$Hazim$3
+5$Hamd$10
