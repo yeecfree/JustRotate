@@ -2,3 +2,5 @@
 2$Khabib$2$500
 3$Radhi$3$0
 4$Thahira
+5$Hiba
+6$Thaza
